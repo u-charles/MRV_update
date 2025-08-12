@@ -1,0 +1,7 @@
+streamlit>=1.10
+sqlalchemy>=1.4
+pandas
+altair
+fuzzywuzzy
+python-Levenshtein
+passlib[bcrypt]
